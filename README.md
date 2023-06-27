@@ -1,10 +1,12 @@
 # Music Playlist Web Application
 
-The Music Playlist Web Application is a PHP-based server-side web application that allows users to browse and create playlists of their favorite music tracks. The application provides an intuitive and user-friendly interface for seamless music discovery and playlist management.
+The Music Playlist Web Application is a PHP-based server-side web application that allows users to browse and create playlists of their favourite music tracks. The application provides an intuitive and user-friendly interface for seamless music discovery and playlist management.
 
 ## Demo Prototype
 
-![Demo](demo.gif)
+![Demo 1](first.gif)
+![Demo 2](second.gif)
+![Demo 3](third.gif)
 
 ## Home Page
 
