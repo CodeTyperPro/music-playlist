@@ -1,0 +1,12 @@
+body {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.custom-lg-bg {
+    background-color: #fcfcfc;
+    /* Replace with your desired background color */
+    color: #ffffff;
+    /* Replace with your desired text color */
+}
+  

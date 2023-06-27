@@ -1,0 +1,251 @@
+[
+    {
+        "id": "0",
+        "name": "Pop Hits",
+        "public": true,
+        "created_by": "normal_user",
+        "tracks": [
+            "0",
+            "1",
+            "5",
+            "9"
+        ]
+    },
+    {
+        "id": "1",
+        "name": "Classic Rock Anthems",
+        "public": true,
+        "created_by": "normal_user",
+        "tracks": [
+            "2",
+            "4",
+            "6",
+            "8",
+            "16"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Soulful Sounds",
+        "public": true,
+        "created_by": "admin",
+        "tracks": [
+            "1",
+            "5",
+            "7",
+            "15"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Best of the 80s",
+        "public": true,
+        "created_by": "normal_user",
+        "tracks": [
+            "3",
+            "6",
+            "7",
+            "18"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Grunge Revolution",
+        "public": true,
+        "created_by": "normal_user",
+        "tracks": [
+            "10",
+            "13",
+            "14"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Mellow Acoustics",
+        "public": true,
+        "created_by": "normal_user",
+        "tracks": [
+            "11",
+            "12",
+            "16"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Epic Guitar Solos",
+        "public": false,
+        "created_by": "normal_user",
+        "tracks": [
+            "4",
+            "6",
+            "14",
+            "16"
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Feel-Good Vibes",
+        "public": false,
+        "created_by": "normal_user",
+        "tracks": [
+            "1",
+            "3",
+            "5",
+            "9",
+            "17"
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Throwback Jams",
+        "public": false,
+        "created_by": "admin",
+        "tracks": [
+            "2",
+            "8",
+            "10",
+            "17",
+            "19"
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Alternative Hits",
+        "public": false,
+        "created_by": "normal_user",
+        "tracks": [
+            "10",
+            "12",
+            "15",
+            "19"
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Legendary Artists",
+        "public": true,
+        "created_by": "normal_user",
+        "tracks": [
+            "4",
+            "7",
+            "8",
+            "14",
+            "16"
+        ]
+    },
+    {
+        "id": "11",
+        "name": "Timeless Ballads",
+        "public": false,
+        "created_by": "normal_user",
+        "tracks": [
+            "1",
+            "11",
+            "12",
+            "16"
+        ]
+    },
+    {
+        "id": "12",
+        "name": "Party Anthems",
+        "public": false,
+        "created_by": "normal_user",
+        "tracks": [
+            "0",
+            "3",
+            "6",
+            "9",
+            "18"
+        ]
+    },
+    {
+        "id": "13",
+        "name": "90s Nostalgia",
+        "public": true,
+        "created_by": "admin",
+        "tracks": [
+            "10",
+            "13",
+            "17",
+            "19"
+        ]
+    },
+    {
+        "id": "14",
+        "name": "Feel the Rhythm",
+        "public": false,
+        "created_by": "normal_user",
+        "tracks": [
+            "0",
+            "3",
+            "7",
+            "15",
+            "18"
+        ]
+    },
+    {
+        "id": "15",
+        "name": "Rock Legends",
+        "public": false,
+        "created_by": "normal_user",
+        "tracks": [
+            "2",
+            "4",
+            "6",
+            "8",
+            "14"
+        ]
+    },
+    {
+        "id": "16",
+        "name": "Chill Vibes",
+        "public": true,
+        "created_by": "normal_user",
+        "tracks": [
+            "5",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "id": "17",
+        "name": "Summer Jams",
+        "public": false,
+        "created_by": "normal_user",
+        "tracks": [
+            "0",
+            "3",
+            "7",
+            "9",
+            "15",
+            "19"
+        ]
+    },
+    {
+        "id": "18",
+        "name": "Motivation Mix",
+        "public": false,
+        "created_by": "normal_user",
+        "tracks": [
+            "1",
+            "4",
+            "6",
+            "8",
+            "10",
+            "17"
+        ]
+    },
+    {
+        "id": "19",
+        "name": "Best of British",
+        "public": true,
+        "created_by": "normal_user",
+        "tracks": [
+            "1",
+            "2",
+            "12",
+            "13",
+            "16"
+        ]
+    }
+]

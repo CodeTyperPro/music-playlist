@@ -1,0 +1,218 @@
+[
+    {
+        "id": "0",
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "length": 235,
+        "year": 2017,
+        "genres": [
+            "Pop"
+        ]
+    },
+    {
+        "id": "1",
+        "title": "Someone Like You",
+        "artist": "Adele",
+        "length": 285,
+        "year": 2011,
+        "genres": [
+            "Pop",
+            "Soul"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "length": 391,
+        "year": 1976,
+        "genres": [
+            "Rock"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Uptown Funk",
+        "artist": "Mark Ronson ft. Bruno Mars",
+        "length": 270,
+        "year": 2014,
+        "genres": [
+            "Funk",
+            "R&B"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "length": 355,
+        "year": 1975,
+        "genres": [
+            "Rock",
+            "Progressive Rock"
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Rolling in the Deep",
+        "artist": "Adele",
+        "length": 228,
+        "year": 2010,
+        "genres": [
+            "Pop",
+            "Soul"
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Sweet Child o' Mine",
+        "artist": "Guns N' Roses",
+        "length": 356,
+        "year": 1987,
+        "genres": [
+            "Rock",
+            "Hard Rock"
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Billie Jean",
+        "artist": "Michael Jackson",
+        "length": 294,
+        "year": 1982,
+        "genres": [
+            "Pop",
+            "R&B"
+        ]
+    },
+    {
+        "id": "8",
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "length": 431,
+        "year": 1968,
+        "genres": [
+            "Rock",
+            "Pop"
+        ]
+    },
+    {
+        "id": "9",
+        "title": "Thinking Out Loud",
+        "artist": "Ed Sheeran",
+        "length": 281,
+        "year": 2014,
+        "genres": [
+            "Pop",
+            "Soul"
+        ]
+    },
+    {
+        "id": "10",
+        "title": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "length": 301,
+        "year": 1991,
+        "genres": [
+            "Grunge",
+            "Rock"
+        ]
+    },
+    {
+        "id": "11",
+        "title": "Don't Stop Believin'",
+        "artist": "Journey",
+        "length": 268,
+        "year": 1981,
+        "genres": [
+            "Rock"
+        ]
+    },
+    {
+        "id": "12",
+        "title": "Hallelujah",
+        "artist": "Jeff Buckley",
+        "length": 297,
+        "year": 1994,
+        "genres": [
+            "Folk",
+            "Rock"
+        ]
+    },
+    {
+        "id": "13",
+        "title": "Wonderwall",
+        "artist": "Oasis",
+        "length": 258,
+        "year": 1995,
+        "genres": [
+            "Rock",
+            "Britpop"
+        ]
+    },
+    {
+        "id": "14",
+        "title": "Purple Haze",
+        "artist": "Jimi Hendrix",
+        "length": 169,
+        "year": 1967,
+        "genres": [
+            "Rock",
+            "Psychedelic Rock"
+        ]
+    },
+    {
+        "id": "15",
+        "title": "Crazy",
+        "artist": "Gnarls Barkley",
+        "length": 181,
+        "year": 2006,
+        "genres": [
+            "Soul",
+            "Alternative"
+        ]
+    },
+    {
+        "id": "16",
+        "title": "Wish You Were Here",
+        "artist": "Pink Floyd",
+        "length": 334,
+        "year": 1975,
+        "genres": [
+            "Rock",
+            "Progressive Rock"
+        ]
+    },
+    {
+        "id": "17",
+        "title": "Piano Man",
+        "artist": "Billy Joel",
+        "length": 341,
+        "year": 1973,
+        "genres": [
+            "Rock",
+            "Soft Rock"
+        ]
+    },
+    {
+        "id": "18",
+        "title": "Thriller",
+        "artist": "Michael Jackson",
+        "length": 358,
+        "year": 1982,
+        "genres": [
+            "Pop",
+            "R&B"
+        ]
+    },
+    {
+        "id": "19",
+        "title": "All Star",
+        "artist": "Smash Mouth",
+        "length": 199,
+        "year": 1999,
+        "genres": [
+            "Pop Rock"
+        ]
+    }
+]

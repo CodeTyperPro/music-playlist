@@ -1,0 +1,30 @@
+{
+    "5fcee3216105a": {
+        "id": "5fcee3216105a",
+        "username": "admin",
+        "email": "admin@email.hu",
+        "password": "$2y$10$3NIKLyOZxuI95KCL6YXE3OKaZmsrd2095edlhJzLcOv7LpC7Dsqg.",
+        "isAdmin": true
+    },
+    "5fcee3216105b": {
+        "id": "5fcee3216105b",
+        "username": "normal_user",
+        "email": "normal_user@email.hu",
+        "password": "$2y$10$zIKlqcmPoT6xUHNsG6K6lOa50x8VpqwEb0D0diMHjzcxhoQPjxOia",
+        "isAdmin": false
+    },
+    "6486196267591": {
+        "username": "codetyper",
+        "email": "heiopo@inf.elte.hu",
+        "password": "$2y$10$gv1SSzKVcfGWeSnB\/DmYFuko2Eqhx8Lq.vMLKoCtGdjx8xhG.v8Ue",
+        "isAdmin": false,
+        "id": "6486196267591"
+    },
+    "6486301725000": {
+        "username": "",
+        "email": "",
+        "password": "$2y$10$Uj8sa7exqZNDWFHlBTroMORc6PhWoxXx5A3iCP6pcBjmegQOocDp.",
+        "isAdmin": false,
+        "id": "6486301725000"
+    }
+}
